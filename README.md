@@ -1,2 +1,2 @@
 # Panterab
- https://rafaelaabe1.github.io/Panterab/
+ https://github.com/rafaelaabe1/Panterab.git
